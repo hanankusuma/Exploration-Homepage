@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Calistoga&family=Concert+One&family=Limelight&family=Lilita+One&family=Paytone+One&family=Lobster&family=Playfair+Display+SC&family=Prompt:ital@1&family=Ysabeau+Infant:wght@300&display=swap');
+body {
+    background-color: #222130; /* Ganti dengan kode warna yang diinginkan */
+  }
+.bg-image {
+    background-image: url('image/explore.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .navbar-custom {
+    background-color: #253927; /* Ganti dengan warna yang diinginkan */
+  }
+  .navbar-custom .nav-link:hover {
+    color: #ff6498;
+  }
+  .navbar-custom .navbar-brand:hover {
+    color: #ffc1d6;
+  }
+  .navbar-brand {
+    font-size: 30px;
+    font-family: 'geologica';
+    color: rgb(255, 97, 152);
+  }
+  .text-title-top {
+    font-family: 'Lilita One', cursive;
+    font-size: 90px;
+    margin-left: 350px;
+    margin-top: 50px;
+    color: rgb(255, 44, 111);
+  }
+  .text-title-bot {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 90px;
+    margin-left: 500px;
+    font-family: 'Lilita One', cursive;
+    color: rgb(255, 242, 0);
+  }
+  .caption {
+    margin-left: 580px;
+    font-family: 'Ysabeau Infant', sans-serif;
+  }
+  .btn-custom {
+    background-color: #f75986; /* Ganti dengan warna latar belakang yang diinginkan */
+    color: #FFFFFF; 
+    margin-left: 500px;
+    margin-top: 30px;
+    width: 200px;
+    font-family: 'Lilita One', cursive;
+  }
+  .btn-custom:hover {
+    background-color: #ffff8b; /* Ganti dengan warna latar belakang saat hover yang diinginkan */
+    color: #000000; /* Ganti dengan warna teks saat hover yang diinginkan */
+  }
+  
+  .navbar-brand {
+    font-family: 'Belanosima', sans-serif;
+  }
+  .home {
+    margin-left: 300px;
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+  }
+  .about {
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+  }
+  .contact {
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+  }
+  .account {
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+  }
+  .blog {
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+  }
+  .navbar-brand {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 30px;
+  }
